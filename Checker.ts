@@ -1,3 +1,3 @@
 function checker(sentence: string, checkWord: string) {
-  return true;
+  return sentence.includes(checkWord);
 }
