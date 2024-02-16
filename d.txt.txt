@@ -1,6 +1,3 @@
 4
 first
 second
-third
-fourth
-fifth
